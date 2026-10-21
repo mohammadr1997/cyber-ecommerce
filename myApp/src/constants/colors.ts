@@ -1,0 +1,56 @@
+export interface IProductColor {
+  id: string;
+  name: string;
+  hexCode: string;
+}
+export const colors = {
+  backgroundPrimary: "#FFFFFF",
+  backgroundSecondary: "#F2F2F7",
+  charocal: "#181313",
+  mainBlack: "#0000",
+  charocalSecondary: "#211C24",
+  secondary: "#d0d0d0",
+  mainWhite: "#FFFF",
+  text: "#CFCFCF",
+  textBanner: "#909090",
+  backgroundCategory: "#EDEDED",
+  borderColor: "#D4D4D4",
+  textColorHeader: "#6C6C6C",
+  borderColorFilter: "#9F9F9F",
+  bgProdutDetail: "#E8E8E8",
+};
+
+export const PRODUCT_COLORS: IProductColor[] = [
+  { id: "black", name: "Black", hexCode: "#000000" },
+  { id: "white", name: "White", hexCode: "#FFFFFF" },
+  { id: "silver", name: "Silver", hexCode: "#C0C0C0" },
+  { id: "gray", name: "Gray", hexCode: "#808080" },
+  { id: "dark-gray", name: "Dark Gray", hexCode: "#4A4A4A" },
+  { id: "space-gray", name: "Space Gray", hexCode: "#5C5C5C" },
+  { id: "gold", name: "Gold", hexCode: "#FFD700" },
+  { id: "rose-gold", name: "Rose Gold", hexCode: "#B76E79" },
+  { id: "red", name: "Red", hexCode: "#FF0000" },
+  { id: "dark-red", name: "Dark Red", hexCode: "#8B0000" },
+  { id: "blue", name: "Blue", hexCode: "#0000FF" },
+  { id: "navy", name: "Navy Blue", hexCode: "#000080" },
+  { id: "sky-blue", name: "Sky Blue", hexCode: "#87CEEB" },
+  { id: "light-blue", name: "Light Blue", hexCode: "#ADD8E6" },
+  { id: "green", name: "Green", hexCode: "#008000" },
+  { id: "dark-green", name: "Dark Green", hexCode: "#006400" },
+  { id: "lime", name: "Lime", hexCode: "#32CD32" },
+  { id: "yellow", name: "Yellow", hexCode: "#FFFF00" },
+  { id: "orange", name: "Orange", hexCode: "#FFA500" },
+  { id: "purple", name: "Purple", hexCode: "#800080" },
+  { id: "deep-purple", name: "Deep Purple", hexCode: "#673AB7" },
+  { id: "violet", name: "Violet", hexCode: "#8A2BE2" },
+  { id: "pink", name: "Pink", hexCode: "#FFC0CB" },
+  { id: "magenta", name: "Magenta", hexCode: "#FF00FF" },
+  { id: "brown", name: "Brown", hexCode: "#A52A2A" },
+  { id: "beige", name: "Beige", hexCode: "#F5F5DC" },
+  { id: "cyan", name: "Cyan", hexCode: "#00FFFF" },
+  { id: "teal", name: "Teal", hexCode: "#008080" },
+  { id: "turquoise", name: "Turquoise", hexCode: "#40E0D0" },
+  { id: "indigo", name: "Indigo", hexCode: "#4B0082" },
+  { id: "bronze", name: "Bronze", hexCode: "#CD7F32" },
+  { id: "copper", name: "Copper", hexCode: "#B87333" },
+];
