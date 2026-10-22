@@ -105,7 +105,7 @@ Here are some screenshots showcasing the storefront and admin pages.
 
 ### 🛍️ Related Products
 
-![Related Products](myApp/shots/related%20product.png)
+![Related Products](myApp/shots/related%20products.png)
 
 
 
