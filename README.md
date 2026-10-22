@@ -42,11 +42,13 @@ Here are some screenshots showcasing the storefront and admin pages.
 
 
 
+
 ### 🛍️ Admin Product Category
 
 ![Product Category Page](myApp/shots/admin%20category%20page.png)
 
 ![Admin Category Management](myApp/shots/admin%20category.png)
+
 
 
 
@@ -56,21 +58,18 @@ Here are some screenshots showcasing the storefront and admin pages.
 
 
 
+
 ### 💬 Admin Review
 
 ![Admin Review](myApp/shots/admin%20review.png)
 
 
 
-### 👥 Admin Users
-
-![Admin Users](myApp/shots/admin%20user.png)
-
-
 
 ### 👥 Admin Users
 
 ![Admin Users](myApp/shots/admin%20user.png)
+
 
 
 
@@ -80,9 +79,13 @@ Here are some screenshots showcasing the storefront and admin pages.
 
 
 
+
+
 ### 🛍️ Product Page
 
-![Product Page](myApp/shots/product detail.png)
+![Product Page](myApp/shots/product%20detail.png)
+
+
 
 
 
@@ -92,15 +95,17 @@ Here are some screenshots showcasing the storefront and admin pages.
 
 
 
+
 ### ⬇️ Footer
 
 ![Footer](myApp/shots/footer.png)
 
 
 
+
 ### 🛍️ Related Products
 
-![Related Products](myApp/shots/related products.png)
+![Related Products](myApp/shots/related%20product.png)
 
 
 
