@@ -40,27 +40,56 @@ Here are some screenshots showcasing the storefront and admin pages.
 
 ![Cyber Ecommerce Storefront](myApp/shots/home%20page.png)
 
-### 🛍️ Product Category
+
+
+### 🛍️ Admin Product Category
 
 ![Product Category Page](myApp/shots/admin%20category%20page.png)
 
 ![Admin Category Management](myApp/shots/admin%20category.png)
 
+
+
 ### 🖼️ Admin Banner
 
 ![Admin Banner](myApp/shots/admin%20banner.png)
+
+
 
 ### 💬 Admin Review
 
 ![Admin Review](myApp/shots/admin%20review.png)
 
+
+
 ### 👥 Admin Users
 
 ![Admin Users](myApp/shots/admin%20user.png)
 
+
+
+### 👥 Admin Users
+
+![Admin Users](myApp/shots/admin%20user.png)
+
+
+
+### 👤 Profile
+
+![Profile](myApp/shots/profile.png)
+
+
+
+### ✅ Sign in
+
+![Sign in](myApp/shots/sign-in.png)
+
+
+
 ### ‼️ Not Found
 
 ![Not Found Page](myApp/shots/not%20found.png)
+
 
 ---
 ### 🎨 UI & User Interface
