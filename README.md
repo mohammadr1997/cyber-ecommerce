@@ -30,6 +30,38 @@ Cyber_Ecommerce is a full-stack e-commerce portfolio project featuring a custome
 - ⭐ Manage product reviews
 - 📊 Access dedicated administration pages
 
+---
+
+## 📸 Screenshots
+
+Here are some screenshots showcasing the storefront, admin pages
+
+### 🏠 Storefront
+
+![Cyber Ecommerce Storefront](myApp/shots/home page.png)
+
+### 🛍️ Product Category
+
+![Product Category](myApp/shots/admin category page.png)!
+[Product Category](myApp/shots/admin category.png)
+
+### 🖼️ Admin Banner
+
+![Admin Banner](myApp/shots/admin banner.png)
+
+### 💬 Admin Review
+
+![Admin Review(myApp/shots/admin review.png)
+
+### 👥 Admin Users
+
+![Admin Users](myApp/shots/admin user.png)
+
+### ‼️ Not Found
+
+![Not Found](myApp/shots/not found.png)
+
+---
 ### 🎨 UI & User Interface
 - 🧩 Reusable React components
 - 🎨 Material UI components and custom theming
