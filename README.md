@@ -80,6 +80,30 @@ Here are some screenshots showcasing the storefront and admin pages.
 
 
 
+### 🛍️ Product Page
+
+![Product Page](myApp/shots/product detail.png)
+
+
+
+### 📱 Product Cards
+
+![Product Cards](myApp/shots/products.png)
+
+
+
+### ⬇️ Footer
+
+![Footer](myApp/shots/footer.png)
+
+
+
+### 🛍️ Related Products
+
+![Related Products](myApp/shots/related products.png)
+
+
+
 ### ✅ Sign in
 
 ![Sign in](myApp/shots/sign-in.png)
